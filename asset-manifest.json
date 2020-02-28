@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sprint-Challenge-Single-Page-Apps/static/css/main.53a25bac.chunk.css",
+    "main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/main.607b5a20.chunk.js",
+    "main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/main.607b5a20.chunk.js.map",
+    "runtime-main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/runtime-main.30386581.js",
+    "runtime-main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/runtime-main.30386581.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Sprint-Challenge-Single-Page-Apps/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c55101fe.chunk.js": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js",
+    "static/js/2.c55101fe.chunk.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js.map",
+    "index.html": "/Sprint-Challenge-Single-Page-Apps/index.html",
+    "precache-manifest.7d10f0871b2239ad917e978a2f82a0b8.js": "/Sprint-Challenge-Single-Page-Apps/precache-manifest.7d10f0871b2239ad917e978a2f82a0b8.js",
+    "service-worker.js": "/Sprint-Challenge-Single-Page-Apps/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Sprint-Challenge-Single-Page-Apps/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.53a25bac.chunk.css.map": "/Sprint-Challenge-Single-Page-Apps/static/css/main.53a25bac.chunk.css.map",
+    "static/js/2.c55101fe.chunk.js.LICENSE.txt": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Sprint-Challenge-Single-Page-Apps/static/media/RickandMorty.488d29b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30386581.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c55101fe.chunk.js",
+    "static/css/main.53a25bac.chunk.css",
+    "static/js/main.607b5a20.chunk.js"
+  ]
+}
