@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sprint-Challenge-Single-Page-Apps/precache-manifest.91a08b465e00e7d99609bd9ca00c5730.js"
+  "/Sprint-Challenge-Single-Page-Apps/precache-manifest.049ba3ff32d03de4aa3f8f77df682497.js"
 );
 
 self.addEventListener('message', (event) => {
