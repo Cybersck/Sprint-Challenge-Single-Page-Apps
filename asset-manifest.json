@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sprint-Challenge-Single-Page-Apps/static/css/main.53a25bac.chunk.css",
-    "main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/main.91be16a4.chunk.js",
-    "main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/main.91be16a4.chunk.js.map",
+    "main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/main.6c2bf5c6.chunk.js",
+    "main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/main.6c2bf5c6.chunk.js.map",
     "runtime-main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/runtime-main.30386581.js",
     "runtime-main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/runtime-main.30386581.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Sprint-Challenge-Single-Page-Apps/static/css/2.47e06e2e.chunk.css",
     "static/js/2.c55101fe.chunk.js": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js",
     "static/js/2.c55101fe.chunk.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js.map",
     "index.html": "/Sprint-Challenge-Single-Page-Apps/index.html",
-    "precache-manifest.03057148303ae9aa01f647e95e3b1449.js": "/Sprint-Challenge-Single-Page-Apps/precache-manifest.03057148303ae9aa01f647e95e3b1449.js",
+    "precache-manifest.66ab6c324f4cccc97d78ea32f19e5e9f.js": "/Sprint-Challenge-Single-Page-Apps/precache-manifest.66ab6c324f4cccc97d78ea32f19e5e9f.js",
     "service-worker.js": "/Sprint-Challenge-Single-Page-Apps/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Sprint-Challenge-Single-Page-Apps/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.53a25bac.chunk.css.map": "/Sprint-Challenge-Single-Page-Apps/static/css/main.53a25bac.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.c55101fe.chunk.js",
     "static/css/main.53a25bac.chunk.css",
-    "static/js/main.91be16a4.chunk.js"
+    "static/js/main.6c2bf5c6.chunk.js"
   ]
 }
