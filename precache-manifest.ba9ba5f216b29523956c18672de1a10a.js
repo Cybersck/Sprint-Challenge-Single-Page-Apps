@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a89d7d3d30722928450373173c61ab62",
+    "revision": "66ae46453df26fd3a74c447395795ef4",
     "url": "/Sprint-Challenge-Single-Page-Apps/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sprint-Challenge-Single-Page-Apps/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "683501976f1ee5e5679f",
-    "url": "/Sprint-Challenge-Single-Page-Apps/static/css/main.0a0db6f8.chunk.css"
+    "revision": "dd935814c7f6ba7b31fe",
+    "url": "/Sprint-Challenge-Single-Page-Apps/static/css/main.04b7c4ba.chunk.css"
   },
   {
     "revision": "30c62bdd425ac50b9a74",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "683501976f1ee5e5679f",
+    "revision": "dd935814c7f6ba7b31fe",
     "url": "/Sprint-Challenge-Single-Page-Apps/static/js/main.6c2bf5c6.chunk.js"
   },
   {
