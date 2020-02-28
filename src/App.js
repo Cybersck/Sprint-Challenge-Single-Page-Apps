@@ -10,10 +10,10 @@ export default function App() {
   return (
     <main>
       <Header />
-      <Route exact path='/'>
-      </Route>
+      <Route exact path='/Sprint-Challenge-Single-Page-Apps/'>
 
-    <Route path='/characters/'>
+      </Route>
+    <Route path='/Sprint-Challenge-Single-Page-Apps/characters/'>
       <CharacterList/>
     </Route>
     </main>
