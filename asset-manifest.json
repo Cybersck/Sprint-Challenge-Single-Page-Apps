@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Sprint-Challenge-Single-Page-Apps/static/css/main.6c73f534.chunk.css",
-    "main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/main.6c2bf5c6.chunk.js",
-    "main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/main.6c2bf5c6.chunk.js.map",
+    "main.css": "/Sprint-Challenge-Single-Page-Apps/static/css/main.062668f8.chunk.css",
+    "main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/main.bc9c4f32.chunk.js",
+    "main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/main.bc9c4f32.chunk.js.map",
     "runtime-main.js": "/Sprint-Challenge-Single-Page-Apps/static/js/runtime-main.30386581.js",
     "runtime-main.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/runtime-main.30386581.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Sprint-Challenge-Single-Page-Apps/static/css/2.47e06e2e.chunk.css",
     "static/js/2.c55101fe.chunk.js": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js",
     "static/js/2.c55101fe.chunk.js.map": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js.map",
     "index.html": "/Sprint-Challenge-Single-Page-Apps/index.html",
-    "precache-manifest.5f4058a5f871e3325f3572f42103c297.js": "/Sprint-Challenge-Single-Page-Apps/precache-manifest.5f4058a5f871e3325f3572f42103c297.js",
+    "precache-manifest.91a08b465e00e7d99609bd9ca00c5730.js": "/Sprint-Challenge-Single-Page-Apps/precache-manifest.91a08b465e00e7d99609bd9ca00c5730.js",
     "service-worker.js": "/Sprint-Challenge-Single-Page-Apps/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Sprint-Challenge-Single-Page-Apps/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.6c73f534.chunk.css.map": "/Sprint-Challenge-Single-Page-Apps/static/css/main.6c73f534.chunk.css.map",
+    "static/css/main.062668f8.chunk.css.map": "/Sprint-Challenge-Single-Page-Apps/static/css/main.062668f8.chunk.css.map",
     "static/js/2.c55101fe.chunk.js.LICENSE.txt": "/Sprint-Challenge-Single-Page-Apps/static/js/2.c55101fe.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Sprint-Challenge-Single-Page-Apps/static/media/RickandMorty.488d29b9.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.30386581.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.c55101fe.chunk.js",
-    "static/css/main.6c73f534.chunk.css",
-    "static/js/main.6c2bf5c6.chunk.js"
+    "static/css/main.062668f8.chunk.css",
+    "static/js/main.bc9c4f32.chunk.js"
   ]
 }
