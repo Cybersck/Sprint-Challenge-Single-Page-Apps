@@ -6,6 +6,8 @@ export default function SearchForm(props) {
   let [queryType, setQueryType] = useState('?name=');
   let [query, setQuery] = useState('');
   let [status, setStatus] = useState('search');
+
+
 let handleText = e => {
   setQuery(e.target.value)
   if (e.target.value === '' || undefined || null) {
@@ -15,15 +17,15 @@ let handleText = e => {
      setStatus('search');
    }
 }
+
 let handleType = e => {
   setQueryType(e.target.value);
 }
+
   useEffect(() => {
     switch(status) {
       case 'search':
-        console.log('QUERY: ',URL+queryType+query.toLowerCase())
         axios.get(URL+queryType+query.toLowerCase()).then(res => {
-          console.log(res);
           props.data(res.data.results);
         }).catch(err => {
           console.log(err);
@@ -31,7 +33,6 @@ let handleType = e => {
       break;
       case 'pagination':
         axios.get(props.state).then(res => {
-          console.log(res);
           props.data(res.data.results);
         }).catch(err => {
           console.log(err);
